@@ -7,7 +7,7 @@
 }
 
 .bg-color-three-reasons {
-    background: #fff;
+    background-color: #fff;
  }
 
 .ui-menu-color-home {
@@ -204,4 +204,14 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+/*-----------------------------Three Reasons*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
